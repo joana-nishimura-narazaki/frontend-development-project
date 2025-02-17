@@ -17,4 +17,4 @@ This is a front-end project that fetches product data from a JSON API and displa
 - **JSON API**: External API to fetch product data.
 
 ## Example
-  ![Product Display GIF](./images/frontend-development-project-.gif)
+  ![Product Display GIF](./frontend-development-project-.gif)
