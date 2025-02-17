@@ -16,4 +16,4 @@ This is a front-end project that fetches product data from a JSON API and displa
 - **JavaScript**: Fetches data from an API and dynamically populates the product list.
 - **JSON API**: External API to fetch product data.
 
-- ![Product Display GIF](./images/frontend-development-project.gif)
+  ![Product Display GIF](./images/frontend-development-project.gif)
